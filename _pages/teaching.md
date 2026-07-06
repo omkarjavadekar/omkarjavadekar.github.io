@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 calendar: true
 ---
+
 <style>
 .post-header .post-title {
   display: none;
@@ -17,14 +18,15 @@ calendar: true
 }
 </style>
 
-## Current Teaching at CMI
+<h4 style="color:#8B008B; text-align:center;">Current Teaching at CMI</h4>
 
-- **2025–26 (Spring)**  
+- **2025–26 (Spring)**
+
   *An Introduction to Combinatorial Commutative Algebra*
 
 ---
 
-## Teaching Assistantship at IIT Bombay
+<h4 style="color:#8B008B; text-align:center;">Teaching Assistantship at IIT Bombay</h4>
 
 I have been a Teaching Assistant for the following Mathematics (MA) and Statistics (SI) courses at IIT Bombay.
 
@@ -40,27 +42,30 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 
 ---
 
-## Teaching Assistant for Online NPTEL Courses
+<h4 style="color:#8B008B; text-align:center;">Teaching Assistant for Online NPTEL Courses</h4>
 
 - **January–April 2022** — *An Introduction to Point-Set Topology, Part I*
 - **July–October 2022** — *An Introduction to Point-Set Topology, Part II*
 
 ---
 
-## Teaching and Mentoring at MTTS
+<h4 style="color:#8B008B; text-align:center;">Teaching and Mentoring at MTTS</h4>
 
-### Teaching
+<h5 style="text-align:center;">Teaching</h5>
 
-- **MTTS Main Camp 2026** — KIIT Bhubaneswar  
+- **MTTS Main Camp 2026** — KIIT Bhubaneswar
+
   *Linear Algebra – Level II* (12 lectures)
 
-- **MTTS Overture 2026** — St. Albert's College, Ernakulam  
+- **MTTS Overture 2026** — St. Albert's College, Ernakulam
+
   *Linear Algebra* (3 lectures)
 
-- **Init-Math Raipur 2025** — IIIT Naya Raipur  
+- **Init-Math Raipur 2025** — IIIT Naya Raipur
+
   *Linear Algebra* (8 lectures)
 
-### Mentoring
+<h5 style="text-align:center;">Mentoring</h5>
 
 - **MTTS 2025** — Real Analysis, Linear Algebra, Group Theory
 - **MTTS 2024** — Real Analysis, Linear Algebra, Algebra, Topology
@@ -73,7 +78,7 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 
 ---
 
-## Tutoring for NCM Programmes
+<h4 style="color:#8B008B; text-align:center;">Tutoring for NCM Programmes</h4>
 
 - **June 2026** — *Topics in Commutative Algebra and Algebraic Geometry*, IIT Palakkad
 - **June 2025** — *Recent Developments in Commutative Algebra*, IIT Dharwad
@@ -81,7 +86,7 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 
 ---
 
-## Volunteering
+<h4 style="color:#8B008B; text-align:center;">Volunteering</h4>
 
 I taught **Differential Equations** (PSMT 104, Units II and III) to first-year M.Sc. Mathematics students at Gogate–Jogalekar College, Ratnagiri during the Autumn 2020–21 semester (online).
 
