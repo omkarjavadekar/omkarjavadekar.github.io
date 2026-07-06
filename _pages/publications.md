@@ -6,9 +6,6 @@ description: ""
 nav: true
 nav_order: 2
 ---
- 
-<!-- Bibsearch Feature -->
-{% include bib_search.liquid %}
 
 ## Links to my articles
 
