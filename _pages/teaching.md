@@ -57,22 +57,23 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 
 ---
 
-<h4 style="color:#8B008B; text-align:center;">Teaching Assistant for Online NPTEL Courses</h4>
+<h4 style="color:#8B008B; text-align:center;">Teaching Assistant for Online <a href="https://nptel.ac.in/" target="_blank">NPTEL</a> Courses</h4>
 
 <table>
 <tr>
 <td style="width:28%;"><strong>January–April 2022</strong></td>
-<td>An Introduction to Point-Set Topology, Part I</td>
+<td><a href="https://onlinecourses.nptel.ac.in/noc22_ma25/preview" target="_blank">An Introduction to Point-Set Topology, Part I</a></td>
 </tr>
+
 <tr>
 <td><strong>July–October 2022</strong></td>
-<td>An Introduction to Point-Set Topology, Part II</td>
+<td><a href="https://onlinecourses.nptel.ac.in/noc22_ma61/preview" target="_blank">An Introduction to Point-Set Topology, Part II</a></td>
 </tr>
 </table>
 
 ---
 
-<h4 style="color:#8B008B; text-align:center;">Teaching and Mentoring at MTTS</h4>
+<h4 style="color:#8B008B; text-align:center;">Teaching and Mentoring at <a href="https://mtts.org.in/" target="_blank">MTTS</a></h4>
 
 <h5 style="text-align:center;">Teaching</h5>
 
@@ -110,25 +111,24 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 </table>
 
 ---
-
-<h4 style="color:#8B008B; text-align:center;">Tutoring for NCM Programmes</h4>
+<h4 style="color:#8B008B; text-align:center;">Tutoring for <a href="https://www.atmschools.org/" target="_blank">NCM</a> Programmes</h4>
 
 <table>
 <tr>
 <td style="width:25%;"><strong>June 2026</strong></td>
-<td style="width:45%;">Topics in Commutative Algebra and Algebraic Geometry</td>
+<td style="width:45%;"><a href="https://www.atmschools.org/school/2026/AIS/tcaag" target="_blank">Topics in Commutative Algebra and Algebraic Geometry</a></td>
 <td>IIT Palakkad</td>
 </tr>
 
 <tr>
 <td><strong>June 2025</strong></td>
-<td>Recent Developments in Commutative Algebra</td>
+<td><a href="https://www.atmschools.org/school/2025/NCMW/rdca" target="_blank">Recent Developments in Commutative Algebra</a></td>
 <td>IIT Dharwad</td>
 </tr>
 
 <tr>
 <td><strong>November 2023</strong></td>
-<td>Teachers' Enrichment Workshop on Linear Algebra, Real Analysis and Group Theory</td>
+<td><a href="https://www.atmschools.org/school/2023/TEW/laragt/speakers-and-syllabus" target="_blank">Teachers' Enrichment Workshop on Linear Algebra, Real Analysis and Group Theory</a></td>
 <td>IIT Bombay</td>
 </tr>
 </table>
@@ -138,21 +138,21 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 <h4 style="color:#8B008B; text-align:center;">Volunteering</h4>
 
 <p>
-I taught <strong>Differential Equations</strong> (PSMT 104, Units II and III) to first-year M.Sc. Mathematics students at Gogate–Jogalekar College, Ratnagiri during the Autumn 2020–21 semester (online).
+I taught <a href="https://old.mu.ac.in/wp-content/uploads/2020/12/Paper-IV-Ordinary-Diffrential-Equation.pdf" target="_blank"><strong>Differential Equations</strong></a> (PSMT 104, Units II and III) to first-year M.Sc. Mathematics students at <a href="https://gjcrtn.ac.in/" target="_blank">Gogate–Jogalekar College, Ratnagiri</a> during the Autumn 2020–21 semester (online).
 </p>
 
 <p>
-I have also delivered online lectures organized by Dr. Vinod Kumar P. and the Maths Aspirants Group for students preparing for competitive examinations such as IIT JAM, GATE, and CSIR-UGC NET.
+I have also delivered online lectures organized by <a href="https://tmgctirur.ac.in/?page_id=904" target="_blank">Dr. Vinod Kumar P.</a> and the Maths Aspirants Group for students preparing for competitive examinations such as IIT JAM, GATE, and CSIR-UGC NET.
 </p>
 
 <table>
 <tr>
 <td style="width:35%;">Basics of Group Theory</td>
-<td>YouTube Video</td>
+<td><a href="https://www.youtube.com/watch?v=Fsj3zlvgg6c" target="_blank">YouTube Video</a></td>
 </tr>
 
 <tr>
 <td>Linear Algebra</td>
-<td>YouTube Video</td>
+<td><a href="https://www.youtube.com/watch?v=oFCu5UA9rrs" target="_blank">YouTube Video</a></td>
 </tr>
 </table>
