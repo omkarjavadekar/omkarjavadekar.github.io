@@ -11,16 +11,22 @@ profile:
   more_info: >
     <p>Office No. 405,</p>
     <p>Chennai Mathematical Institute,</p>
-    <p>Siruseri, Tamilnadu-603103,</p>
+    <p>Siruseri, Tamil Nadu 603103,</p>
     <p>India.</p>
 
 ---
 
-Hello! Welcome to my homepage. 
+Welcome to my homepage!
 
 I am working as a Postdoctoral Fellow at Chennai Mathematical Institute (CMI) since July 2025.
 
-Before joining CMI, I obtained my PhD from IIT Bombay under the supervision of Prof. Ananthnarayan Hariharan. 
+Before joining CMI, I obtained my PhD from IIT Bombay under the supervision of Prof. Ananthnarayan Hariharan.
 
 My current areas of interest are Commutative Algebra, Homological Algebra, and their connections to Combinatorics.
 
+<div style="text-align: center; margin-top: 2em;">
+  <strong>Email:</strong>
+  <a href="mailto:omkar@cmi.ac.in">omkar@cmi.ac.in</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:omkarjavadekar@gmail.com">omkarjavadekar@gmail.com</a>
+</div>
