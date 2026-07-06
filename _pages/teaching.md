@@ -16,11 +16,26 @@ calendar: true
 .post-header .post-description {
   display: none;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td {
+  padding: 4px 8px;
+  vertical-align: top;
+}
 </style>
 
 <h4 style="color:#8B008B; text-align:center;">Current Teaching at CMI</h4>
 
-- **2025–26 (Spring)**    *An Introduction to Combinatorial Commutative Algebra*
+<table>
+<tr>
+<td style="width:28%;"><strong>2025–26 (Spring)</strong></td>
+<td>An Introduction to Combinatorial Commutative Algebra</td>
+</tr>
+</table>
 
 ---
 
@@ -28,22 +43,32 @@ calendar: true
 
 I have been a Teaching Assistant for the following Mathematics (MA) and Statistics (SI) courses at IIT Bombay.
 
-- **2023–24 (Spring)** — **MA 406:** *General Topology*
-- **2023–24 (Autumn)** — **SI 423:** *Linear Algebra and Applications*
-- **2022–23 (Spring)** — **MA 106:** *Linear Algebra*
-- **2022–23 (Spring)** — **MA 108:** *Differential Equations*
-- **2022–23 (Autumn)** — **MA 109:** *Calculus I*
-- **2022–23 (Autumn)** — **MA 111:** *Calculus II*
-- **2021–22 (Spring)** — **MA 002:** *Preparatory Mathematics II*
-- **2021–22 (Autumn)** — **MA 001:** *Preparatory Mathematics I*
-- **2021–22 (Autumn)** — **MA 419:** *Basic Algebra*
+<table>
+<tr><td style="width:28%;"><strong>2023–24 (Spring)</strong></td><td style="width:15%;"><strong>MA 406</strong></td><td>General Topology</td></tr>
+<tr><td><strong>2023–24 (Autumn)</strong></td><td><strong>SI 423</strong></td><td>Linear Algebra and Applications</td></tr>
+<tr><td><strong>2022–23 (Spring)</strong></td><td><strong>MA 106</strong></td><td>Linear Algebra</td></tr>
+<tr><td><strong>2022–23 (Spring)</strong></td><td><strong>MA 108</strong></td><td>Differential Equations</td></tr>
+<tr><td><strong>2022–23 (Autumn)</strong></td><td><strong>MA 109</strong></td><td>Calculus I</td></tr>
+<tr><td><strong>2022–23 (Autumn)</strong></td><td><strong>MA 111</strong></td><td>Calculus II</td></tr>
+<tr><td><strong>2021–22 (Spring)</strong></td><td><strong>MA 002</strong></td><td>Preparatory Mathematics II</td></tr>
+<tr><td><strong>2021–22 (Autumn)</strong></td><td><strong>MA 001</strong></td><td>Preparatory Mathematics I</td></tr>
+<tr><td><strong>2021–22 (Autumn)</strong></td><td><strong>MA 419</strong></td><td>Basic Algebra</td></tr>
+</table>
 
 ---
 
 <h4 style="color:#8B008B; text-align:center;">Teaching Assistant for Online NPTEL Courses</h4>
 
-- **January–April 2022** — *An Introduction to Point-Set Topology, Part I*
-- **July–October 2022** — *An Introduction to Point-Set Topology, Part II*
+<table>
+<tr>
+<td style="width:28%;"><strong>January–April 2022</strong></td>
+<td>An Introduction to Point-Set Topology, Part I</td>
+</tr>
+<tr>
+<td><strong>July–October 2022</strong></td>
+<td>An Introduction to Point-Set Topology, Part II</td>
+</tr>
+</table>
 
 ---
 
@@ -51,44 +76,83 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 
 <h5 style="text-align:center;">Teaching</h5>
 
-- **MTTS Main Camp 2026** — KIIT Bhubaneswar
+<table>
+<tr>
+<td style="width:30%;"><strong>MTTS Main Camp 2026</strong></td>
+<td style="width:30%;">KIIT Bhubaneswar</td>
+<td>Linear Algebra – Level II (12 lectures)</td>
+</tr>
 
-  *Linear Algebra – Level II* (12 lectures)
+<tr>
+<td><strong>MTTS Overture 2026</strong></td>
+<td>St. Albert's College, Ernakulam</td>
+<td>Linear Algebra (3 lectures)</td>
+</tr>
 
-- **MTTS Overture 2026** — St. Albert's College, Ernakulam
-
-  *Linear Algebra* (3 lectures)
-
-- **Init-Math Raipur 2025** — IIIT Naya Raipur
-
-  *Linear Algebra* (8 lectures)
+<tr>
+<td><strong>Init-Math Raipur 2025</strong></td>
+<td>IIIT Naya Raipur</td>
+<td>Linear Algebra (8 lectures)</td>
+</tr>
+</table>
 
 <h5 style="text-align:center;">Mentoring</h5>
 
-- **MTTS 2025** — Real Analysis, Linear Algebra, Group Theory
-- **MTTS 2024** — Real Analysis, Linear Algebra, Algebra, Topology
-- **OFCM 2023** — Foundations (Logic, Sets, Functions, and Equivalence Relations)
-- **OFCM 2022** — Foundations (Logic, Sets, Functions, and Equivalence Relations)
-- **Init-Math Mumbai 2022** — Foundations, Real Analysis, Linear Algebra
-- **Init-Math J&K 2022** — Foundations, Real Analysis, Linear Algebra
-- **MTTS 2021** — Foundations, Real Analysis, Linear Algebra
-- **OFCM 2020** — Foundations (Logic, Sets, Functions, and Equivalence Relations)
+<table>
+<tr><td style="width:30%;"><strong>MTTS 2025</strong></td><td>Real Analysis, Linear Algebra, Group Theory</td></tr>
+<tr><td><strong>MTTS 2024</strong></td><td>Real Analysis, Linear Algebra, Algebra, Topology</td></tr>
+<tr><td><strong>OFCM 2023</strong></td><td>Foundations (Logic, Sets, Functions, and Equivalence Relations)</td></tr>
+<tr><td><strong>OFCM 2022</strong></td><td>Foundations (Logic, Sets, Functions, and Equivalence Relations)</td></tr>
+<tr><td><strong>Init-Math Mumbai 2022</strong></td><td>Foundations, Real Analysis, Linear Algebra</td></tr>
+<tr><td><strong>Init-Math J&amp;K 2022</strong></td><td>Foundations, Real Analysis, Linear Algebra</td></tr>
+<tr><td><strong>MTTS 2021</strong></td><td>Foundations, Real Analysis, Linear Algebra</td></tr>
+<tr><td><strong>OFCM 2020</strong></td><td>Foundations (Logic, Sets, Functions, and Equivalence Relations)</td></tr>
+</table>
 
 ---
 
 <h4 style="color:#8B008B; text-align:center;">Tutoring for NCM Programmes</h4>
 
-- **June 2026** — *Topics in Commutative Algebra and Algebraic Geometry*, IIT Palakkad
-- **June 2025** — *Recent Developments in Commutative Algebra*, IIT Dharwad
-- **November 2023** — *Teachers' Enrichment Workshop on Linear Algebra, Real Analysis and Group Theory*, IIT Bombay
+<table>
+<tr>
+<td style="width:25%;"><strong>June 2026</strong></td>
+<td style="width:45%;">Topics in Commutative Algebra and Algebraic Geometry</td>
+<td>IIT Palakkad</td>
+</tr>
+
+<tr>
+<td><strong>June 2025</strong></td>
+<td>Recent Developments in Commutative Algebra</td>
+<td>IIT Dharwad</td>
+</tr>
+
+<tr>
+<td><strong>November 2023</strong></td>
+<td>Teachers' Enrichment Workshop on Linear Algebra, Real Analysis and Group Theory</td>
+<td>IIT Bombay</td>
+</tr>
+</table>
 
 ---
 
 <h4 style="color:#8B008B; text-align:center;">Volunteering</h4>
 
-I taught **Differential Equations** (PSMT 104, Units II and III) to first-year M.Sc. Mathematics students at Gogate–Jogalekar College, Ratnagiri during the Autumn 2020–21 semester (online).
+<p>
+I taught <strong>Differential Equations</strong> (PSMT 104, Units II and III) to first-year M.Sc. Mathematics students at Gogate–Jogalekar College, Ratnagiri during the Autumn 2020–21 semester (online).
+</p>
 
+<p>
 I have also delivered online lectures organized by Dr. Vinod Kumar P. and the Maths Aspirants Group for students preparing for competitive examinations such as IIT JAM, GATE, and CSIR-UGC NET.
+</p>
 
-- *Basics of Group Theory* — YouTube Video
-- *Linear Algebra* — YouTube Video
+<table>
+<tr>
+<td style="width:35%;">Basics of Group Theory</td>
+<td>YouTube Video</td>
+</tr>
+
+<tr>
+<td>Linear Algebra</td>
+<td>YouTube Video</td>
+</tr>
+</table>
