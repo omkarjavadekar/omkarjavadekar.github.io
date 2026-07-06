@@ -1,5 +1,5 @@
 ---
-layout: academics
+layout: page
 permalink: /academics/
 title: ""
 nav: true
