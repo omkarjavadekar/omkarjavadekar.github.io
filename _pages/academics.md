@@ -130,7 +130,7 @@ description: ""
 
 - **2023** <a href="https://www.atmschools.org/school/2023/ncmw/cmscigt">NCM Workshop on Cohen–Macaulay Simplicial Complexes in Graph Theory</a>, Chennai Mathematical Institute.
   
-  - **2023** <a href="https://www.icts.res.in/program/dta2023">Workshop on Dualities in Topology and Algebra</a>, International Centre for Theoretical Sciences, Bangalore.
+- **2023** <a href="https://www.icts.res.in/program/dta2023">Workshop on Dualities in Topology and Algebra</a>, International Centre for Theoretical Sciences, Bangalore.
 
 - **2023** <a href="https://indico.ictp.it/event/10276/">Workshop on Commutative Algebra and Algebraic Geometry in Prime Characteristic</a>, ICTP, Trieste, Italy.
 
