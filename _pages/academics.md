@@ -17,7 +17,7 @@ description: ""
 }
 </style>
 
-<h4 style="color:#8B008B;">Talks & Posters Presented</h4>
+<h4 style="color:#8B008B; text-align:center;">Talks & Posters Presented</h4>
 
 <h5>Talks</h5>
 
@@ -101,7 +101,7 @@ description: ""
 
 ---
 
-<h4 style="color:#8B008B;">Conferences & Workshops Attended</h4>
+<h4 style="color:#8B008B; text-align:center;">Conferences & Workshops Attended</h4>
 
 - **2026** A Celebration of Golod's Mathematical Legacy, University of Warwick, UK.
 - **2026** Links between Commutative Algebra and Representation Theory, Imperial College London, UK.
@@ -131,7 +131,7 @@ description: ""
 
 ---
 
-<h4 style="color:#8B008B;">Honors & Scholarships</h4>
+<h4 style="color:#8B008B; text-align:center;">Honors & Scholarships</h4>
 
 - **2020** Selected for the Dr. Shyama Prasad Mukherjee (SPM) Fellowship of CSIR.
 - **2020** Selected for the NBHM Ph.D. Scholarship.
@@ -142,7 +142,7 @@ description: ""
 
 ---
 
-<h4 style="color:#8B008B;">Achievements in Competitive Examinations</h4>
+<h4 style="color:#8B008B; text-align:center;">Achievements in Competitive Examinations</h4>
 
 - **2020** **GATE (Mathematics):** All India Rank 3 (GATE Score: 1000).
 - **2019** **CSIR-UGC NET (Mathematical Sciences, June 2019):** All India Rank 6.
