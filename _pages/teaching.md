@@ -7,6 +7,15 @@ nav: true
 nav_order: 4
 calendar: true
 ---
+<style>
+.post-header .post-title {
+  display: none;
+}
+
+.post-header .post-description {
+  display: none;
+}
+</style>
 
 ## Current Teaching at CMI
 
