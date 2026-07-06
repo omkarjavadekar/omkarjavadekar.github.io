@@ -1,1 +1,1 @@
-img.img-fluid{width:500px !important;height:auto !important;max-width:500px !important;object-fit:contain}
+.profile{display:flex;align-items:flex-start;gap:2rem}.profile img{width:375px !important;height:auto !important;max-width:375px !important;object-fit:cover;display:block}
