@@ -6,6 +6,11 @@ description: ""
 nav: true
 nav_order: 2
 ---
+<style>
+.page-title {
+  display: none;
+}
+</style>
 
 ## Links to my articles
 
