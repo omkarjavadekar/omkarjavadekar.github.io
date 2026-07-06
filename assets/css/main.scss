@@ -2,6 +2,7 @@
 ---
 
 .profile img {
-  width: 320px !important;
+  width: 300px !important;
   height: auto !important;
+  object-fit: contain;
 }
