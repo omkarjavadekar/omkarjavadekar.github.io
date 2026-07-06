@@ -7,7 +7,11 @@ nav: true
 nav_order: 2
 ---
 <style>
-.page-title {
+.post-header .post-title {
+  display: none;
+}
+
+.post-header .post-description {
   display: none;
 }
 </style>
