@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 ---
-<div style="margin-top: 8em;"></div>
+<div style="margin-top: 5em;"></div>
 
 Welcome to my homepage!
 
