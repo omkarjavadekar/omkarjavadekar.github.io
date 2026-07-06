@@ -1,8 +1,9 @@
 ---
 ---
 
-.about img {
-  width: 300px !important;
+img.img-fluid {
+  width: 500px !important;
   height: auto !important;
+  max-width: 500px !important;
   object-fit: contain;
 }
