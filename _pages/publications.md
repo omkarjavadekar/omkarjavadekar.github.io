@@ -15,6 +15,32 @@ nav_order: 2
 .post-header .post-description {
   display: none;
 }
+
+.pub-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+.pub-table td {
+  padding: 12px 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+.pub-title {
+  width: 52%;
+}
+
+.pub-journal {
+  width: 33%;
+}
+
+.pub-link {
+  width: 15%;
+  text-align: center;
+  white-space: nowrap;
+}
 </style>
 
 <h4 style="color:#8B008B;">
@@ -30,38 +56,117 @@ Links to my articles
 
 ---
 
-<div style="margin-top: 2.5em;"></div>
+<div style="margin-top:2em;"></div>
 
 <h4 style="color:#8B008B;">Publications and Preprints</h4>
 
-1. *Betti cones over fibre products* (with H. Ananthnarayan and Rajiv Kumar)
+<table class="pub-table">
 
-   **Journal of Pure and Applied Algebra** (2026). <a href="https://doi.org/10.1016/j.jpaa.2026.108181" target="_blank">DOI</a>
+<tr>
+<td class="pub-title">
+<b>1.</b> Betti cones over fibre products<br>
+(with H. Ananthnarayan and Rajiv Kumar)
+</td>
+<td class="pub-journal">
+<b>Journal of Pure and Applied Algebra</b><br>
+(2026)
+</td>
+<td class="pub-link">
+<a href="https://doi.org/10.1016/j.jpaa.2026.108181" target="_blank">DOI</a>
+</td>
+</tr>
 
-2. *Linear quotients of connected ideals of graphs* (with H. Ananthnarayan and A. Maithani)
+<tr>
+<td class="pub-title">
+<b>2.</b> Linear quotients of connected ideals of graphs<br>
+(with H. Ananthnarayan and A. Maithani)
+</td>
+<td class="pub-journal">
+<b>Journal of Algebraic Combinatorics</b><br>
+(2025)
+</td>
+<td class="pub-link">
+<a href="https://doi.org/10.1007/s10801-025-01395-6" target="_blank">DOI</a>
+</td>
+</tr>
 
-   **Journal of Algebraic Combinatorics** (2025). <a href="https://doi.org/10.1007/s10801-025-01395-6" target="_blank">DOI</a>
+<tr>
+<td class="pub-title">
+<b>3.</b> A comparison of the regularity of certain classes of monomial ideals and their integral closures
+</td>
+<td class="pub-journal">
+<b>Archiv der Mathematik</b><br>
+(2026)
+</td>
+<td class="pub-link">
+<a href="https://doi.org/10.1007/s00013-026-02225-2" target="_blank">DOI</a>
+</td>
+</tr>
 
-3. *A comparison of the regularity of certain classes of monomial ideals and their integral closures*
+<tr>
+<td class="pub-title">
+<b>4.</b> Syzygies of associated graded modules<br>
+(with H. Ananthnarayan and M. Batavia)
+</td>
+<td class="pub-journal">
+Accepted for publication in<br>
+<b>Illinois Journal of Mathematics</b> (2026)
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2308.00654" target="_blank">arXiv</a>
+</td>
+</tr>
 
-   **Archiv der Mathematik** (2026). <a href="https://doi.org/10.1007/s00013-026-02225-2" target="_blank">DOI</a>
+<tr>
+<td class="pub-title">
+<b>5.</b> On Golod subdeterminantal ideals
+</td>
+<td class="pub-journal">
+Accepted for publication in<br>
+<b>Proceedings of the American Mathematical Society</b> (2026)
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2601.18153" target="_blank">arXiv</a>
+</td>
+</tr>
 
-4. *Syzygies of associated graded modules* (with H. Ananthnarayan and M. Batavia)
+<tr>
+<td class="pub-title">
+<b>6.</b> Extremal behavior of ideals of minors<br>
+(with T. Chau, M. Debellovue, S. Dey, and G. Krishnamoorthy)
+</td>
+<td class="pub-journal">
+Preprint (2025)
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2507.05225" target="_blank">arXiv</a>
+</td>
+</tr>
 
-   Accepted for publication in **Illinois Journal of Mathematics** (2026). <a href="https://arxiv.org/abs/2308.00654" target="_blank">arXiv</a>
+<tr>
+<td class="pub-title">
+<b>7.</b> Projective monomial curves associated to numerical semigroups with multiplicity \(e\), width \(e-1\), and embedding dimension \(e-2\)<br>
+(with T. Chau and O. P. Bhardwaj)
+</td>
+<td class="pub-journal">
+Preprint (2025)
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2511.06482" target="_blank">arXiv</a>
+</td>
+</tr>
 
-5. *On Golod subdeterminantal ideals*
+<tr>
+<td class="pub-title">
+<b>8.</b> On licci squarefree monomial ideals<br>
+(with T. Chau and O. P. Bhardwaj)
+</td>
+<td class="pub-journal">
+Preprint (2026)
+</td>
+<td class="pub-link">
+<a href="http://arxiv.org/abs/2603.14043" target="_blank">arXiv</a>
+</td>
+</tr>
 
-   Accepted for publication in **Proceedings of the American Mathematical Society** (2026). <a href="https://arxiv.org/abs/2601.18153" target="_blank">arXiv</a>
-
-6. *Extremal behavior of ideals of minors* (with T. Chau, M. Debellovue, S. Dey, and G. Krishnamoorthy)
-
-   Preprint (2025). <a href="https://arxiv.org/abs/2507.05225" target="_blank">arXiv</a>
-
-7. *Projective monomial curves associated to numerical semigroups with multiplicity \(e\), width \(e-1\), and embedding dimension \(e-2\)* (with T. Chau and O. P. Bhardwaj)
-
-   Preprint (2025). <a href="https://arxiv.org/abs/2511.06482" target="_blank">arXiv</a>
-
-8. *On licci squarefree monomial ideals* (with T. Chau and O. P. Bhardwaj)
-
-   Preprint (2026). <a href="http://arxiv.org/abs/2603.14043" target="_blank">arXiv</a>
+</table>
