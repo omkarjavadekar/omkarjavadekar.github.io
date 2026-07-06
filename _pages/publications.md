@@ -19,16 +19,13 @@ nav_order: 2
 
 <h4 style="color:#8B008B;">
 Links to my articles
-&nbsp;&nbsp;&nbsp;
-<a href="#">arXiv</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#">ResearchGate</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#">zbMATH</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#">ORCID</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#">Google Scholar</a>
+<span style="font-size:1rem; font-weight:normal;">
+&nbsp;&nbsp;&nbsp;arXiv
+&nbsp;&nbsp;&nbsp;ResearchGate
+&nbsp;&nbsp;&nbsp;zbMATH
+&nbsp;&nbsp;&nbsp;ORCID
+&nbsp;&nbsp;&nbsp;Google Scholar
+</span>
 </h4>
 
 ---
@@ -37,23 +34,23 @@ Links to my articles
 
 1. *Betti cones over fibre products* (with H. Ananthnarayan and Rajiv Kumar)
 
-   Journal of Pure and Applied Algebra (2026). DOI
+   **Journal of Pure and Applied Algebra** (2026). DOI
 
 2. *Linear quotients of connected ideals of graphs* (with H. Ananthnarayan and A. Maithani)
 
-   Journal of Algebraic Combinatorics (2025). DOI
+   **Journal of Algebraic Combinatorics** (2025). DOI
 
 3. *A comparison of the regularity of certain classes of monomial ideals and their integral closures*
 
-   Archiv der Mathematik (2026). DOI
+   **Archiv der Mathematik** (2026). DOI
 
 4. *Syzygies of associated graded modules* (with H. Ananthnarayan and M. Batavia)
 
-   Accepted for publication in *Illinois Journal of Mathematics* (2026). arXiv
+   Accepted for publication in **Illinois Journal of Mathematics** (2026). arXiv
 
 5. *On Golod subdeterminantal ideals*
 
-   Accepted for publication in *Proceedings of the American Mathematical Society* (2026). arXiv
+   Accepted for publication in **Proceedings of the American Mathematical Society** (2026). arXiv
 
 6. *Extremal behavior of ideals of minors* (with T. Chau, M. Debellovue, S. Dey, and G. Krishnamoorthy)
 
