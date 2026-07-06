@@ -69,7 +69,7 @@ description: ""
 
   Student Seminar, IIT Bombay.
 
-- **2023** *<a href="https://sites.google.com/view/iitb-maths-students-seminar/schedule/2023-24-autumn#h.fsj2uciql7nq">Real powers of monomial ideals</a>*
+- **2023** <a href="https://sites.google.com/view/iitb-maths-students-seminar/schedule/2023-24-autumn#h.fsj2uciql7nq">Real powers of monomial ideals</a>
 
   Student Seminar, IIT Bombay.
   
