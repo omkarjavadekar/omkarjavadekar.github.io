@@ -16,4 +16,11 @@ profile:
 
 ---
 
-About me to be written
+Hello! Welcome to my homepage. 
+
+I am working as a Postdoctoral Fellow at Chennai Mathematical Institute (CMI) since July 2025.
+
+Before joining CMI, I obtained my PhD from IIT Bombay under the supervision of Prof. Ananthnarayan Hariharan. 
+
+My current areas of interest are Commutative Algebra, Homological Algebra, and their connections to Combinatorics.
+
