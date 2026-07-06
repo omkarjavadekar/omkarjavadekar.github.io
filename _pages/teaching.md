@@ -20,9 +20,7 @@ calendar: true
 
 <h4 style="color:#8B008B; text-align:center;">Current Teaching at CMI</h4>
 
-- **2025–26 (Spring)**
-
-  *An Introduction to Combinatorial Commutative Algebra*
+- **2025–26 (Spring)**    *An Introduction to Combinatorial Commutative Algebra*
 
 ---
 
