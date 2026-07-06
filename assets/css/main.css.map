@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA,WACE,uBACA,uBACA","sourcesContent":[".about img {\n width: 300px !important;\n height: auto !important;\n object-fit: contain;\n}\n"],"file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA,cACE,uBACA,uBACA,2BACA","sourcesContent":["img.img-fluid {\n width: 500px !important;\n height: auto !important;\n max-width: 500px !important;\n object-fit: contain;\n}\n"],"file":"main.css"}
