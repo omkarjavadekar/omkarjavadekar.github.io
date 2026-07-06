@@ -29,7 +29,7 @@ Links to my articles
 </h4>
 
 ---
-<div style="margin-top: 4em;"></div>
+<div style="margin-top: 2.5em;"></div>
 
 <h4 style="color:#8B008B;">Publications and Preprints</h4>
 
