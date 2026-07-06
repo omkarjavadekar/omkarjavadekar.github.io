@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AACA,SACE,aACA,uBACA,SAIF,aACE,uBACA,uBACA,2BACA,iBACA","sourcesContent":["/* Profile layout fix (al-folio safe) */\n.profile {\n display: flex;\n align-items: flex-start;\n gap: 2rem;\n}\n\n/* Profile image sizing */\n.profile img {\n width: 375px !important;\n height: auto !important;\n max-width: 375px !important;\n object-fit: cover;\n display: block;\n}\n"],"file":"main.css"}
+{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","sourcesContent":[],"file":"main.css"}
