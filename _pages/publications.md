@@ -165,7 +165,20 @@ Preprint (2025)
 Preprint (2026)
 </td>
 <td class="pub-link">
-<a href="http://arxiv.org/abs/2603.14043" target="_blank">arXiv</a>
+<a href="https://arxiv.org/abs/2603.14043" target="_blank">arXiv</a>
+</td>
+</tr>
+
+<tr>
+<td class="pub-title">
+<b>9.</b> Purity of extremal rays of Betti cones<br>
+(with H. Ananthnarayan and R. Kumar)
+</td>
+<td class="pub-journal">
+Preprint (2026)
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2607.06394" target="_blank">arXiv</a>
 </td>
 </tr>
 
