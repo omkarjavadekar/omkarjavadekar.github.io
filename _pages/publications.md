@@ -136,7 +136,8 @@ Accepted for publication in<br>
 (with T. Chau, M. Debellovue, S. Dey, and G. Krishnamoorthy)
 </td>
 <td class="pub-journal">
-Preprint (2025)
+Accepted for publication in<br>
+<b>Bulletin of the London Mathematical Society</b> (2026)
 </td>
 <td class="pub-link">
 <a href="https://arxiv.org/abs/2507.05225" target="_blank">arXiv</a>
