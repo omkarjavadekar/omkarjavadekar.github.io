@@ -56,7 +56,7 @@ description: ""
 
   <a href="https://indico.ictp.it/event/10200">School on Commutative Algebra and Algebraic Geometry in Prime Characteristic</a>, International Centre for Theoretical Physics, Trieste, Italy.
 
-- **2023** *Triangulated categories*
+- **2023** Triangulated categories
 
   <a href="https://drive.google.com/file/d/1BGYFy_-7OG8QMvoTbObbSlvtml3poyAT/view?usp=drive_link">Notes</a> •
   <a href="https://www.youtube.com/watch?v=EZoABibEXD0">YouTube Video</a>
