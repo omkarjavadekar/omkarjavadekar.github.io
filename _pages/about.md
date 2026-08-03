@@ -10,14 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-<!-- Import Computer Modern (LaTeX) Font -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
+<!-- Import EB Garamond Font from Google -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
 <style>
-/* Apply the formal LaTeX font to the whole page */
+/* Apply the formal EB Garamond font to the whole page */
 body, body * {
-  font-family: "Computer Modern Serif", serif !important;
-  font-size: 16px; /* Adjust this to 15px if you want it even more compact */
+  font-family: 'EB Garamond', serif !important;
+  font-size: 18px; /* EB Garamond is naturally small, 18px keeps it compact but legible */
 }
 
 /* Hide default title and description */
