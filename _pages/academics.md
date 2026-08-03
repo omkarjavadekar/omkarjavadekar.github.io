@@ -13,14 +13,18 @@ description: ""
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
-/* Apply the clean sans-serif font, excluding math equations so LaTeX doesn't break */
+/* 1. Apply the clean sans-serif font globally (excluding math) */
 body, body *:not(.math):not(.MathJax):not(.katex):not(mjx-container):not(mjx-container *) {
   font-family: 'Inter', sans-serif !important;
+}
+
+/* 2. Set the base size ONLY on the body so headers stay big */
+body {
   font-size: 16px;
   line-height: 1.6;
 }
 
-/* Ensure strong/bold tags pop nicely */
+/* 3. Ensure strong/bold tags pop nicely */
 b, strong {
   font-weight: 600 !important;
 }
