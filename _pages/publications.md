@@ -7,16 +7,22 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Import EB Garamond Font from Google -->
+<!-- Import the modern 'Inter' font from Google -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
-/* Apply the formal EB Garamond font, but EXCLUDE math rendering engines so LaTeX equations in titles don't break */
+/* Apply the clean sans-serif font, excluding math equations so LaTeX doesn't break */
 body, body *:not(.math):not(.MathJax):not(.katex):not(mjx-container):not(mjx-container *) {
-  font-family: 'EB Garamond', serif !important;
-  font-size: 18px;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Ensure strong/bold tags pop nicely */
+b, strong {
+  font-weight: 600 !important;
 }
 
 .post-header .post-title {
