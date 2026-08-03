@@ -63,7 +63,7 @@ description: ""
 
   A preparatory talk at the <a href="https://www.icts.res.in/program/dta2023">Workshop on Dualities in Topology and Algebra</a>, International Centre for Theoretical Sciences, Bangalore.
 
-- **2023** *<a href="https://sites.google.com/view/iitb-maths-students-seminar/schedule/2023-24-autumn#h.v2en8kmv5e6r">Kaplansky's theorem for projective modules</a>*
+- **2023** <a href="https://sites.google.com/view/iitb-maths-students-seminar/schedule/2023-24-autumn#h.v2en8kmv5e6r">Kaplansky's theorem for projective modules</a>
 
   <a href="https://drive.google.com/file/d/1Sm9V8StLh3ZWYStI7D77E6RaCr3ZlHlF/view?usp=drive_link">Notes</a>
 
