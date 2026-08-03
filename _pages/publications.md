@@ -8,11 +8,6 @@ nav_order: 2
 ---
 
 <style>
-body,
-body * {
-  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
-}
-
 .post-header .post-title {
   display: none;
 }
@@ -26,6 +21,27 @@ body * {
   border-collapse: collapse;
   margin-top: 1em;
 }
+
+.pub-table td {
+  padding: 12px 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+.pub-title {
+  width: 52%;
+}
+
+.pub-journal {
+  width: 33%;
+}
+
+.pub-link {
+  width: 15%;
+  text-align: center;
+  white-space: nowrap;
+}
+</style>
 
 <h4 style="color:#8B008B;">
 Links to my articles
