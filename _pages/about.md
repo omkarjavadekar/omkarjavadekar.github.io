@@ -10,14 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
 
 ---
-
-<style>
-body,
-body * {
-  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
-}
-</style>
-
 <div style="margin-top: 5em;"></div>
 
 Welcome to my homepage!
