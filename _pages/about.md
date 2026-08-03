@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: about
 title: Home
@@ -10,6 +11,14 @@ profile:
   image_circular: false # crops the image to make it circular
 
 ---
+
+<style>
+body,
+body * {
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
+</style>
+
 <div style="margin-top: 5em;"></div>
 
 Welcome to my homepage!
@@ -26,3 +35,4 @@ My current areas of interest are Commutative Algebra, Homological Algebra, and t
   &nbsp;|&nbsp;
   <a href="mailto:omkarjavadekar@gmail.com">omkarjavadekar@gmail.com</a>
 </div>
+```
