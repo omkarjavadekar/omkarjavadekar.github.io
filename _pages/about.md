@@ -8,8 +8,35 @@ profile:
   align: right
   image: omkar_photo.jpg
   image_circular: false # crops the image to make it circular
-
 ---
+
+<!-- Import Computer Modern (LaTeX) Font -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
+
+<style>
+/* Apply the formal LaTeX font to the whole page */
+body, body * {
+  font-family: "Computer Modern Serif", serif !important;
+  font-size: 16px; /* Adjust this to 15px if you want it even more compact */
+}
+
+/* Hide default title and description */
+.post-header .post-title {
+  display: none;
+}
+
+.post-header .post-description {
+  display: none;
+}
+
+/* Table styling */
+.pub-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+</style>
+
 <div style="margin-top: 5em;"></div>
 
 Welcome to my homepage!
