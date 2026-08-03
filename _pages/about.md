@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: about
 title: Home
@@ -35,4 +34,3 @@ My current areas of interest are Commutative Algebra, Homological Algebra, and t
   &nbsp;|&nbsp;
   <a href="mailto:omkarjavadekar@gmail.com">omkarjavadekar@gmail.com</a>
 </div>
-```
