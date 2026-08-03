@@ -7,16 +7,22 @@ nav_order: 3
 description: ""
 ---
 
-<!-- Import EB Garamond Font from Google -->
+<!-- Import the modern 'Inter' font from Google -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
-/* Apply the formal EB Garamond font, but EXCLUDE math rendering engines so LaTeX equations don't break */
+/* Apply the clean sans-serif font, excluding math equations so LaTeX doesn't break */
 body, body *:not(.math):not(.MathJax):not(.katex):not(mjx-container):not(mjx-container *) {
-  font-family: 'EB Garamond', serif !important;
-  font-size: 18px;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Ensure strong/bold tags pop nicely */
+b, strong {
+  font-weight: 600 !important;
 }
 
 .post-header .post-title {
@@ -74,7 +80,7 @@ body, body *:not(.math):not(.MathJax):not(.katex):not(mjx-container):not(mjx-con
 
   A preparatory talk at the <a href="https://www.icts.res.in/program/dta2023">Workshop on Dualities in Topology and Algebra</a>, International Centre for Theoretical Sciences, Bangalore.
 
-- **2023** <a href="https://sites.google.com/view/iitb-maths-students-seminar/schedule/2023-24-autumn#h.v2en8kmv5e6r">Kaplansky's theorem for projective modules</a>
+- **2023** *<a href="https://sites.google.com/view/iitb-maths-students-seminar/schedule/2023-24-autumn#h.v2en8kmv5e6r">Kaplansky's theorem for projective modules</a>*
 
   <a href="https://drive.google.com/file/d/1Sm9V8StLh3ZWYStI7D77E6RaCr3ZlHlF/view?usp=drive_link">Notes</a>
 
