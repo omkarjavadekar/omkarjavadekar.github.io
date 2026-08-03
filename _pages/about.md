@@ -10,32 +10,22 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-<!-- Import EB Garamond Font from Google -->
+<!-- Import the modern 'Inter' font from Google -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
-/* Apply the formal EB Garamond font to the whole page */
-body, body * {
-  font-family: 'EB Garamond', serif !important;
-  font-size: 18px; /* EB Garamond is naturally small, 18px keeps it compact but legible */
+/* Apply the clean sans-serif font, excluding math equations so LaTeX doesn't break */
+body, body *:not(.math):not(.MathJax):not(.katex):not(mjx-container):not(mjx-container *) {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 16px;
+  line-height: 1.6; /* Adds a bit of breathing room between lines for readability */
 }
 
-/* Hide default title and description */
-.post-header .post-title {
-  display: none;
-}
-
-.post-header .post-description {
-  display: none;
-}
-
-/* Table styling */
-.pub-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 1em;
+/* Ensure strong tags pop nicely */
+b, strong {
+  font-weight: 600 !important;
 }
 </style>
 
