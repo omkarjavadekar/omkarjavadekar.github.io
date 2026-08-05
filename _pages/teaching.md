@@ -50,7 +50,7 @@ table td {
 }
 </style>
 
-<h4 style="color:#8B008B; text-align:center;">Current Teaching at CMI</h4>
+<h4 style="color:#8B008B; text-align:center;">Teaching at CMI</h4>
 
 <table>
 <tr>
