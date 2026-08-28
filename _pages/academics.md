@@ -36,6 +36,11 @@ b, strong {
 .post-header .post-description {
   display: none;
 }
+
+  /* 4. Add spacing between the year and the entry text in lists */
+  li > strong:first-child {
+    margin-right: 0.5em;
+  }
 </style>
 
 <h4 style="color:#8B008B; text-align:center;">Talks & Posters Presented</h4>
