@@ -65,13 +65,14 @@ white-space: nowrap;
 </style>
 
 <h4 style="color:#8B008B;">
-Links to my articles
+<b>Links to my articles</b>
 <span style="font-size:1rem; font-weight:normal;">
 &nbsp;&nbsp;&nbsp;<a href="http://arxiv.org/a/javadekar_o_1" target="_blank">arXiv</a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Omkar-Javadekar" target="_blank">ResearchGate</a>
-&nbsp;&nbsp;&nbsp;<a href="https://zbmath.org/?q=ia%3Ajavadekar.omkar" target="_blank">zbMATH</a>
+&nbsp;&nbsp;&nbsp;<a href="https://mathscinet.ams.org/mathscinet/author?authorId=1660601" target="_blank">MathSciNet</a>
 &nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0002-4829-3212" target="_blank">ORCID</a>
 &nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=Pf9g5dgAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a>
+&nbsp;&nbsp;&nbsp;<a href="https://zbmath.org/?q=ia%3Ajavadekar.omkar" target="_blank">zbMATH</a>
 </span>
 </h4>
 
@@ -79,7 +80,7 @@ Links to my articles
 
 <div style="margin-top:2em;"></div>
 
-<h4 style="color:#8B008B;">Publications</h4>
+<h4 style="color:#8B008B; text-align:center;"><b>Publications</b></h4>
 
 <table class="pub-table">
 
@@ -168,7 +169,7 @@ Accepted for publication in<br>
 
 <div style="margin-top:2em;"></div>
 
-<h4 style="color:#8B008B;">Preprints</h4>
+<h4 style="color:#8B008B; text-align:center;"><b>Preprints</b></h4>
 
 <table class="pub-table">
 
