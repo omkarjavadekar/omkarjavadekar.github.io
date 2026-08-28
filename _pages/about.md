@@ -40,9 +40,20 @@ margin-left: 0.15em;
 font-size: 0.75em;
 transform: translateY(-0.1em);
 }
-</style>
 
-<div style="margin-top: 5em;"></div>
+/* 5. Enlarge the profile photo and place it beside the name/subtitle on larger screens */
+@media (min-width: 768px) {
+.profile.float-right {
+width: 320px;
+margin-top: -110px;
+}
+}
+
+/* 6. Add a modest gap before the welcome text now that the spacer div is gone */
+.clearfix > p:first-of-type {
+margin-top: 1.8em;
+}
+</style>
 
 Welcome to my homepage!
 
