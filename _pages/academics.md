@@ -41,6 +41,15 @@ b, strong {
   li > strong:first-child {
     margin-right: 0.5em;
   }
+
+  /* 5. Add a subtle icon after external links */
+  a[rel~="external"]::after {
+    content: "↗";
+    display: inline-block;
+    margin-left: 0.15em;
+    font-size: 0.75em;
+    transform: translateY(-0.1em);
+  }
 </style>
 
 <h4 style="color:#8B008B; text-align:center;">Talks & Posters Presented</h4>
