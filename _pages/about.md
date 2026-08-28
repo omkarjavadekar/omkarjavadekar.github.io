@@ -5,9 +5,9 @@ permalink: /
 subtitle: "Postdoctoral Fellow, Chennai Mathematical Institute"
 
 profile:
-align: right
-image: omkar_photo.jpg
-image_circular: false # crops the image to make it circular
+  align: right
+  image: omkar_photo.jpg
+  image_circular: false # crops the image to make it circular
 ---
 
 <!-- Import the modern 'Inter' font from Google -->
@@ -58,4 +58,3 @@ My current areas of interest are Commutative Algebra, Homological Algebra, and t
 &nbsp;|&nbsp;
 <a href="mailto:omkarjavadekar@gmail.com">omkarjavadekar@gmail.com</a>
 </div>
-Page_Down
