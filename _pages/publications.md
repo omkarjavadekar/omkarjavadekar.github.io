@@ -257,3 +257,7 @@ Preprint (2025); submitted
 </tr>
 
 </table>
+
+<div style="text-align: center; margin-top: 1.5em; font-size: 0.9em; color: #888;">
+The arXiv preprints linked above may not be up to date. Please refer to the published version where available.
+</div>
