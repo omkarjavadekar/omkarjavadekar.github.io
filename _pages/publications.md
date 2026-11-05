@@ -210,7 +210,7 @@ Preprint (2026); submitted
 <b>3.</b> On the weak Lefschetz property of Artinian Gorenstein algebras of codimension three in arbitrary characteristic
 </td>
 <td class="pub-journal">
-Preprint (2026)
+Preprint (2026); submitted
 </td>
 <td class="pub-link">
 <a href="https://arxiv.org/abs/2608.27232" target="_blank">arXiv</a>
