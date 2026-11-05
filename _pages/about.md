@@ -65,7 +65,11 @@ My current areas of interest are Commutative Algebra, Homological Algebra, and t
 
 <div style="text-align: center; margin-top: 2em;">
 <strong>Email:</strong>
-<a href="mailto:omkarj@cmi.ac.in">omkarj@cmi.ac.in</a>
-&nbsp;|&nbsp;
 <a href="mailto:omkarjavadekar@gmail.com">omkarjavadekar@gmail.com</a>
+&nbsp;|&nbsp;
+<a href="mailto:omkarj@cmi.ac.in">omkarj@cmi.ac.in</a>
+</div>
+
+<div style="text-align: center; margin-top: 1.5em; font-size: 0.8em; color: #888;">
+Last updated: 5 November 2026
 </div>
