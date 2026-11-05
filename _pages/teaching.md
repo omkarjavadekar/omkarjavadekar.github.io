@@ -146,6 +146,13 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 <tr><td><strong>OFCM 2020</strong></td><td>Foundations (Logic, Sets, Functions, and Equivalence Relations)</td></tr>
 </table>
 
+<h5 style="text-align:center;">Programme Coordination</h5>
+
+<table>
+<tr><td style="width:30%;"><strong>OFCM 2026</strong></td><td>Academic coordinator</td></tr>
+<tr><td><strong>OFCM 2025</strong></td><td>Local coordinator (coordinating registrations, online sessions, technical support, and communication with faculty, mentors, and student participants)</td></tr>
+</table>
+
 ---
 <h4 style="color:#8B008B; text-align:center;">Tutoring for <a href="https://www.atmschools.org/" target="_blank">NCM</a> Programmes</h4>
 
@@ -172,6 +179,10 @@ I have been a Teaching Assistant for the following Mathematics (MA) and Statisti
 ---
 
 <h4 style="color:#8B008B; text-align:center;">Volunteering</h4>
+
+<p>
+Volunteer for <a href="https://www.cmi.ac.in/~mathcircle/" target="_blank">CMI Math Circle</a>.
+</p>
 
 <p>
 I taught <a href="https://old.mu.ac.in/wp-content/uploads/2020/12/Paper-IV-Ordinary-Diffrential-Equation.pdf" target="_blank"><strong>Differential Equations</strong></a> (PSMT 104, Units II and III) to first-year M.Sc. Mathematics students at <a href="https://gjcrtn.ac.in/" target="_blank">Gogate–Jogalekar College, Ratnagiri</a> during the Autumn 2020–21 semester (online).

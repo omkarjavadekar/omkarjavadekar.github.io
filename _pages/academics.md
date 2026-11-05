@@ -56,6 +56,14 @@ b, strong {
 
 <h5>Talks</h5>
 
+- **2026** The Weak Lefschetz Property for Codimension-Three Gorenstein Rings
+
+  Mathematics Colloquium, IIT Jammu.
+
+- **2026** The weak Lefschetz property in codimension three
+
+  Mathematics Seminar, IIT Tirupati.
+
 - **2026** <a href="https://warwick.ac.uk/fac/sci/maths/research/events/2025-2026/golod2026/gongvolunteersfinal.pdf">On Golod subdeterminantal ideals</a>
 
   Gong show talk, <a href="https://warwick.ac.uk/fac/sci/maths/research/events/2025-2026/golod2026/">A Celebration of Golod's Mathematical Legacy</a>, University of Warwick, UK.

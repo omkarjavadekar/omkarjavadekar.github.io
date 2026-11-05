@@ -111,11 +111,10 @@ white-space: nowrap;
 <b>2.</b> On Golod subdeterminantal ideals
 </td>
 <td class="pub-journal">
-Accepted for publication in<br>
 <b>Proceedings of the American Mathematical Society</b> (2026)
 </td>
 <td class="pub-link">
-<a href="https://arxiv.org/abs/2601.18153" target="_blank">arXiv</a>
+<a href="https://doi.org/10.1090/proc/17872" target="_blank">DOI</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2601.18153" target="_blank">arXiv</a>
 </td>
 </tr>
 
@@ -125,11 +124,10 @@ Accepted for publication in<br>
 (with H. Ananthnarayan and M. Batavia)
 </td>
 <td class="pub-journal">
-Accepted for publication in<br>
 <b>Illinois Journal of Mathematics</b> (2026)
 </td>
 <td class="pub-link">
-<a href="https://arxiv.org/abs/2308.00654" target="_blank">arXiv</a>
+<a href="https://doi.org/10.1215/00192082-12701233" target="_blank">DOI</a>&nbsp;/&nbsp;<a href="https://arxiv.org/abs/2308.00654" target="_blank">arXiv</a>
 </td>
 </tr>
 
@@ -184,7 +182,32 @@ Accepted for publication in<br>
 
 <tr>
 <td class="pub-title">
-<b>1.</b> On the weak Lefschetz property of Artinian Gorenstein algebras of codimension three in arbitrary characteristic
+<b>1.</b> Field independence of the first seven Betti numbers of flag complexes
+</td>
+<td class="pub-journal">
+Preprint (2026)
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2609.28376" target="_blank">arXiv</a>
+</td>
+</tr>
+
+<tr>
+<td class="pub-title">
+<b>2.</b> The Betti numbers and Golodness of numerical semigroup rings of Sally type<br>
+(with M. Batavia and M. Kumar)
+</td>
+<td class="pub-journal">
+Preprint (2026); submitted
+</td>
+<td class="pub-link">
+<a href="https://arxiv.org/abs/2609.26752" target="_blank">arXiv</a>
+</td>
+</tr>
+
+<tr>
+<td class="pub-title">
+<b>3.</b> On the weak Lefschetz property of Artinian Gorenstein algebras of codimension three in arbitrary characteristic
 </td>
 <td class="pub-journal">
 Preprint (2026)
@@ -196,7 +219,7 @@ Preprint (2026)
 
 <tr>
 <td class="pub-title">
-<b>2.</b> Purity of extremal rays of Betti cones<br>
+<b>4.</b> Purity of extremal rays of Betti cones<br>
 (with H. Ananthnarayan and R. Kumar)
 </td>
 <td class="pub-journal">
@@ -209,7 +232,7 @@ Preprint (2026); submitted
 
 <tr>
 <td class="pub-title">
-<b>3.</b> On licci squarefree monomial ideals<br>
+<b>5.</b> On licci squarefree monomial ideals<br>
 (with T. Chau and O. P. Bhardwaj)
 </td>
 <td class="pub-journal">
@@ -222,7 +245,7 @@ Preprint (2026); submitted
 
 <tr>
 <td class="pub-title">
-<b>4.</b> Projective monomial curves associated to numerical semigroups with multiplicity \(e\), width \(e-1\), and embedding dimension \(e-2\)<br>
+<b>6.</b> Projective monomial curves associated to numerical semigroups with multiplicity \(e\), width \(e-1\), and embedding dimension \(e-2\)<br>
 (with T. Chau and O. P. Bhardwaj)
 </td>
 <td class="pub-journal">
